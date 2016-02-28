@@ -15,11 +15,13 @@ This project shares a list of many media queries for different physical dimensio
 * [Motorola Watch](moto-watch)
 
 
-###
-
 ## Have devices that not listed here?
 
 If you find any device that is not listed here, [make an issue with detail](https://github.com/petehouston/physical-dimension-breakpoints/issues).
+
+## References
+
+* [CSS Tricks - Media queries for standard devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 
 ## Contribute
 
