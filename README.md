@@ -9,6 +9,7 @@ This project shares a list of many media queries for different physical dimensio
 * [Samsung Galaxy](samsung-galaxy)
 * [Samsung Galaxy Tab](samsung-galaxy-tab)
 * [Nexus](nexus)
+* [HTC](htc)
 
 
 ###
