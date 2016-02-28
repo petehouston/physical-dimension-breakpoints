@@ -16,7 +16,7 @@ about **device-width**
 
 > Describes the width of the output device (meaning the entire screen or page, rather than just the rendering area, such as the document window).
 
-**What is the difference between the two, `width` and `device-width`?
+**What is the difference between the two, `width` and `device-width`?**
 
 > Many tablets and mobile devices don’t always have 1 device pixel per CSS pixel. The iPhone 4, for example, has 2 device pixels per CSS pixel. For reference, you should know that the iPhone 4 has a regular screen layout viewport of 640×960. This means that, in this example, the device-width of the iPhone4 is 320×480. This is the case because Apple realizes that not every website is built responsively (shame on them) and tries to please everyone by having around 980px width to accommodate the desktop view of the website. This means, that if there is no meta viewport tag in place, the iPhone4 will take your website, render it as if it were 980px wide, squish it into a 320px display, and as a result, would be zoomed out to the user.
 
