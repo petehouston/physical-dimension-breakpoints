@@ -7,6 +7,7 @@ This project shares a list of many media queries for different physical dimensio
 * [iPhone](iphone)
 * [iPad](ipad)
 * [Samsung Galaxy](samsung-galaxy)
+* [Samsung Galaxy Tab](samsung-galaxy-tab)
 
 
 ###
