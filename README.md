@@ -11,6 +11,7 @@ This project shares a list of many media queries for different physical dimensio
 * [Nexus](nexus)
 * [HTC](htc)
 * [Apple Watch](apple-watch)
+* [Motorola Watch](moto-watch)
 
 
 ###
