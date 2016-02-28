@@ -6,7 +6,7 @@ This project shares a list of many media queries for different physical dimensio
 
 There are two common terms known while working with media queries, `width` and `device-width`.
 
-According to the MDN documentation,
+According to the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries),
 
 about **width**
 
